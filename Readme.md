@@ -1,10 +1,8 @@
-Certainly, here's a simple `readme.md` for your Space News website:
-
 # Space News Website
 
 This is a web application for displaying articles related to space news. Users can view and read articles on various space-related topics.
 
-## Features
+### Features
 
 - Display a list of space news articles.
 - Click on an article to read its full content.
@@ -13,13 +11,13 @@ This is a web application for displaying articles related to space news. Users c
 - Directly open the full article in a new tab.
 - Beautiful and responsive user interface.
 
-## Technologies Used
+### Technologies Used
 
 - React: Frontend framework for building the user interface.
 - Tailwind CSS: A utility-first CSS framework for styling.
 - JavaScript: Programming language used for functionality.
 
-## How to Use
+### How to Use
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
