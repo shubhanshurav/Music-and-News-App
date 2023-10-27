@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Home = ({ item }) => {
+const FetchNews = ({ item }) => {
   return (
     <div className='border-[2px] border-gray-300 mb-10 m-auto p-8 items-center w-[70%] bg-white' style={{ backgroundImage: `url(/assets/background2.jpeg)` }}>
       <div className='text-[25px] text-start pb-1 font-bold font-serif text-blue-600'>
@@ -32,4 +32,4 @@ const Home = ({ item }) => {
   );
 }
 
-export default Home;
+export default FetchNews;
