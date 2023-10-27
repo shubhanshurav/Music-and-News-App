@@ -1,6 +1,6 @@
-# Space News Website
+# Spotify Music Playlist & Space News Website
 
-This is a web application for displaying articles related to space news. Users can view and read articles on various space-related topics.
+<!-- This is a web application for displaying articles related to space news. Users can view and read articles on various space-related topics.
 
 ### Features
 
@@ -23,4 +23,4 @@ This is a web application for displaying articles related to space news. Users c
 2. Navigate to the project directory.
 3. Run `npm install` to install project dependencies.
 4. Run `npm start` to start the development server.
-5. Open your web browser and go to `http://localhost:3000/` to view the Space News website.
+5. Open your web browser and go to `http://localhost:3000/` to view the Space News website. -->
